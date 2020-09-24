@@ -1,6 +1,6 @@
-# hot_meal
+# Hot meal
 
-A meals mobile app
+A meal app that iv'e built during my flutter course to learn multiple screens and how to communicates between several views in the app
 
 ## Getting Started
 
